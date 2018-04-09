@@ -19,3 +19,5 @@ Test accuracy  : 80.2% dice<br />
 Train accuracy : 83.0% dice<br />
 
 ## google drive link to Weights and numpy files ( size was greater than upload limit in github)
+
+https://drive.google.com/open?id=1TuvZ1hH1xc8NkQ0fSddep8JZ0wo1dal7
