@@ -15,7 +15,7 @@ Test accuracy  : 61.5% <br />
 
 ## Segmentation <br />
 
-Test accuracy  : <br />
-Train accuracy : <br />
+Test accuracy  : 80.2% dice<br />
+Train accuracy : 83.0% dice<br />
 
 ## google drive link to Weights and numpy files ( size was greater than upload limit in github)
